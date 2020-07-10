@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jonathankablan/jonathankablan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![logo](https://www.2le.net/wp-inside/uploads/2019/12/symfony-5-nouveautes.png)
+
+<p align="center">
+  <a href="https://devsprof.fr">Website</a> -
+  <a href="https://twitter.com/intent/follow?screen_name=jonathan_kablan&tw_p=followbutton">@jonathan_kablan</a> -
+  <a href="https://www.linkedin.com/in/jonathankablan/">LinkedIn</a>
+</p>
+
+Hi 👋, I'm Jonathan, developer Symfony / Flutter living near Paris, specialized in **Symfony** and **Flutter**.
+
