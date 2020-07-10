@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ![logo](https://www.2le.net/wp-inside/uploads/2019/12/symfony-5-nouveautes.png)
 
-<p align="center">
+<p align="left">
   <a href="https://devsprof.fr">Website</a> -
   <a href="https://twitter.com/intent/follow?screen_name=jonathan_kablan&tw_p=followbutton">@jonathan_kablan</a> -
   <a href="https://www.linkedin.com/in/jonathankablan/">LinkedIn</a>
 </p>
 
-Hi 👋, I'm Jonathan, developer Symfony / Flutter living near Paris, specialized in **Symfony** and **Flutter**.
+Hi 👋, I'm Jonathan, developer living at Paris, specialized **Symfony** and **Flutter**.
 
