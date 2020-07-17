@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://filsdelacharite.org/wp-content/uploads/2020/04/abonnement-youtube.png" width="200">
   </a>
 </p><br>
-![logo](affiche.png)
+![drawing](affiche.png)
 
 Hi 👋, I'm Jonathan, developer living at Paris, specialized **Symfony** and **Flutter**.
 
