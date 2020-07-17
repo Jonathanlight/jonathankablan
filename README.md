@@ -21,5 +21,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jonathankablan/">LinkedIn</a>
 </p>
 
+<p align="left">
+  <h2> Follow me on YouTube </h2>  
+  <a href="https://www.youtube.com/channel/UC86YR5q3LHTqp7jfavzMhZQ?view_as=subscriber">
+    <img src="https://filsdelacharite.org/wp-content/uploads/2020/04/abonnement-youtube.png" width="200">
+  </a>
+</p><br>
+![logo](affiche.png)
+
 Hi 👋, I'm Jonathan, developer living at Paris, specialized **Symfony** and **Flutter**.
 
