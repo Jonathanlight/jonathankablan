@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![drawing](affiche.png)
+![drawing](https://github.com/jonathankablan/jonathankablan/blob/master/affiche.png)
 
 <p align="left">
   <a href="https://devsprof.fr" target="_blank">Website</a> -
