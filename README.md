@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 ![logo](https://www.2le.net/wp-inside/uploads/2019/12/symfony-5-nouveautes.png)
 
 <p align="left">
-  <a href="https://devsprof.fr">Website</a> -
-  <a href="https://twitter.com/intent/follow?screen_name=jonathan_kablan&tw_p=followbutton">@jonathan_kablan</a> -
-  <a href="https://www.linkedin.com/in/jonathankablan/">LinkedIn</a>
+  <a href="https://devsprof.fr" target="_blank">Website</a> -
+  <a href="https://twitter.com/intent/follow?screen_name=jonathan_kablan&tw_p=followbutton" target="_blank">@jonathan_kablan</a> -
+  <a href="https://www.linkedin.com/in/jonathankablan/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="left">
   <h2> Follow me on YouTube </h2>  
-  <a href="https://www.youtube.com/channel/UC86YR5q3LHTqp7jfavzMhZQ?view_as=subscriber">
+  <a href="https://www.youtube.com/channel/UC86YR5q3LHTqp7jfavzMhZQ?view_as=subscriber" target="_blank">
     <img src="https://filsdelacharite.org/wp-content/uploads/2020/04/abonnement-youtube.png" width="200">
   </a>
 </p><br>
