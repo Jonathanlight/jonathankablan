@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://www.2le.net/wp-inside/uploads/2019/12/symfony-5-nouveautes.png)
+![drawing](affiche.png)
 
 <p align="left">
   <a href="https://devsprof.fr" target="_blank">Website</a> -
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
     <img src="https://filsdelacharite.org/wp-content/uploads/2020/04/abonnement-youtube.png" width="200">
   </a>
 </p><br>
-![drawing](affiche.png)
 
 Hi 👋, I'm Jonathan, developer living at Paris, specialized **Symfony** and **Flutter**.
 
