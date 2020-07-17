@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 ![drawing](https://github.com/jonathankablan/jonathankablan/blob/master/affiche.png)
 
-<table style="width:100%">
-  <tr>
+<table style="width:100%;border: 1px solid black;">
+  <tr style="border: 1px solid black;">
     <td>
-        <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="80">
-        <a href="https://devsprof.fr" target="_blank">Website</a>
+        <img src="https://devsprof.fr/assets/front/img/logo-devsprof-v2.png" width="50">
+        <a href="https://devsprof.fr" target="_blank">Website Of Formation</a>
     </td>
     <td>
-        <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="80">
+        <img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" width="50">
         <a href="https://twitter.com/intent/follow?screen_name=jonathan_kablan&tw_p=followbutton" target="_blank">@jonathan_kablan</a>
     </td>
     <td>
-        <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="80">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50">
         <a href="https://www.linkedin.com/in/jonathankablan/" target="_blank">LinkedIn</a>
     </td>
   </tr>
